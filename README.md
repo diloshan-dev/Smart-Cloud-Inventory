@@ -43,17 +43,17 @@ The project was built to demonstrate a genuinely full-stack skill set: a typed R
 
 <div align="center">
 
-| Overview Dashboard | Sales Analytics |
+| Overview Dashboard | POS Terminal |
 |---|---|
-| ![Overview](docs/screenshots/dashboard.png) | ![Analytics](docs/screenshots/analytics.png) |
+| ![Overview](docs/screenshots/Screenshot%202026-09-03%20144058.png) | ![POS Terminal](docs/screenshots/smart.png) |
 
-| Inventory Management | POS Terminal |
+| POS Terminal — Cart View | Login / Register |
 |---|---|
-| ![Inventory](docs/screenshots/inventory.png) | ![POS](docs/screenshots/pos.png) |
+| ![POS Cart](docs/screenshots/Screenshot%202026-09-03%20144148.png) | ![Auth](docs/screenshots/register_page.png) |
 
 </div>
 
-> Screenshots are stored in [`docs/screenshots/`](docs/screenshots/). Replace the placeholders above with current captures before publishing.
+> Screenshots are stored in [`docs/screenshots/`](docs/screenshots/). If any caption above doesn't match what the image actually shows (e.g. the second POS shot is really Inventory), just swap the caption — the file paths already point to your real files.
 
 ---
 
